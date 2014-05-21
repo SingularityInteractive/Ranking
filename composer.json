@@ -1,0 +1,8 @@
+{
+    "name": "TangoGroup/gloo-php-sdk",
+    "autoload": {
+        "psr-0": {
+            "NS_": "./" 
+        }
+    }
+}
