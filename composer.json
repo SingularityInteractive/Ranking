@@ -1,8 +1,6 @@
 {
     "name": "singularity-interactive/gliko2-ranking",
     "autoload": {
-        "psr-0": {
-            "NS_": "./" 
-        }
+        "classmap": ["library/Mkk"]
     }
 }
