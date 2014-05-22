@@ -1,5 +1,6 @@
 {
-    "name": "TangoGroup/gloo-php-sdk",
+    "name": "SingularityInteractive/gliko2-ranking",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
             "NS_": "./" 
