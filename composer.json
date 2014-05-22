@@ -1,5 +1,5 @@
 {
-    "name": "singularity-interactive/gliko2-ranking",
+    "name": "singularity-interactive/glicko2-ranking",
     "autoload": {
         "classmap": ["library"]
     }
