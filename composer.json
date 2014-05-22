@@ -1,6 +1,6 @@
 {
     "name": "singularity-interactive/gliko2-ranking",
     "autoload": {
-        "classmap": ["library/Mkk"]
+        "classmap": ["library"]
     }
 }
