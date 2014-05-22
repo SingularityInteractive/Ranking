@@ -1,6 +1,7 @@
 {
     "name": "SingularityInteractive/gliko2-ranking",
     "minimum-stability": "dev",
+    "version": "1.0.0",
     "autoload": {
         "psr-0": {
             "NS_": "./" 
