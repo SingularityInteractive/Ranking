@@ -1,5 +1,5 @@
 {
-    "name": "SingularityInteractive/gliko2-ranking",
+    "name": "singularity-interactive/gliko2-ranking",
     "minimum-stability": "dev",
     "version": "1.0.0",
     "autoload": {
