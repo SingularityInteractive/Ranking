@@ -4,8 +4,8 @@ namespace Mkk\Game;
 
 use Mkk\Options;
 
-require_once 'Mkk/Options.php';
-require_once 'Mkk/Game/PlayerInterface.php';
+// require_once 'Mkk/Options.php';
+// require_once 'Mkk/Game/PlayerInterface.php';
 
 class Player implements PlayerInterface
 {
